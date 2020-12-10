@@ -1,0 +1,10 @@
+Docker is a container.
+
+basically loka na apni application docker image di tara share kitiyan hundiyan na.
+
+so i can download the image the loccally with command : "docker pull <image-name>"
+
+
+once you have downloaded then you can check the image by command "docker image ls"
+
+and then you can run any image by command -- "docker run <image-name>" , image name you can find a docker image list
