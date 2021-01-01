@@ -1,6 +1,8 @@
-Docker is a container.
+https://docs.docker.com/engine/reference/commandline/cli/
 
-basically loka na apni application docker image di tara share kitiyan hundiyan na.
+
+
+Basically loka na apni application docker image di tara share kitiyan hundiyan na.
 
 so i can download the image the loccally with command : "docker pull <image-name>"
 
